@@ -1,6 +1,6 @@
 django-auth-ldap-ad
 ===================
-
+ DNS Query for _ldap._tcp.dc._msdcs.DOMAIN.NAME to get LDAP URI?
 
 ## Why
 Django authentication backend for LDAP with Active Directory
